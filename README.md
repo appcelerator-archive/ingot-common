@@ -3,14 +3,10 @@ Ingot Common
 
 Common library for the Ingot platform, services, and plugins.
 
-## Installation
-
-	npm install -g ingot
-
 ## Reporting Bugs or submitting fixes
 
 If you run into problems, and trust us, there are likely plenty of them at this
-point -- please create an [Issue](https://github.com/appcelerator/ingot/issues)
+point -- please create an [Issue](https://github.com/appcelerator/ingot-common/issues)
 or, even better, send us a pull request.
 
 ## Contributing
